@@ -1,0 +1,103 @@
+{
+  "ingredientes": {
+    "batidas": [
+      {
+        "id": 1,
+        "tipo": "Açai normal"
+      },
+      {
+        "id": 2,
+        "tipo": "Morango"
+      },
+      {
+        "id": 3,
+        "tipo": "Uva"
+      },
+      {
+        "id": 4,
+        "tipo": "Abacaxi"
+      }
+    ],
+    "tamanhos": [
+      {
+        "id": 1,
+        "qntd": "300ML"
+      },
+      {
+        "id": 2,
+        "qntd": "400ML"
+      },
+      {
+        "id": 3,
+        "qntd": "500ML"
+      },
+      {
+        "id": 4,
+        "qntd": "1LT"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Granola"
+      },
+      {
+        "id": 2,
+        "tipo": "Sucrilhos"
+      },
+      {
+        "id": 3,
+        "tipo": "Jujuba"
+      },
+      {
+        "id": 4,
+        "tipo": "Granulado"
+      },
+      {
+        "id": 4,
+        "tipo": "Paçoca"
+      },
+      {
+        "id": 4,
+        "tipo": "Leite ninho"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "Acais": [
+    {
+      "nome": "luixgabriel",
+      "batida": "Uva",
+      "tamanho": "300ML",
+      "opcionais": [
+        "Granola"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Marilia",
+      "batida": "Açai normal",
+      "tamanho": "1LT",
+      "opcionais": [
+        "Jujuba",
+        "Leite ninho"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
+}
