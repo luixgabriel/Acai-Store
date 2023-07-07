@@ -6,16 +6,5 @@ Este repositório contém uma aplicação web de pedidos de açaí desenvolvida 
 
 - Exibição dos sabores de açaí disponíveis.
 - Adição e remoção de coberturas e complementos.
-- Cálculo do valor total do pedido.
-- Finalização do pedido com informações de contato.
+- Gerenciamento de pedidos.
 
-## Pré-requisitos
-
-- Node.js (versão X.X.X): [Instalar o Node.js](https://nodejs.org)
-
-## Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
