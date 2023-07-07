@@ -8,3 +8,4 @@ Este repositório contém uma aplicação web de pedidos de açaí desenvolvida 
 - Adição e remoção de coberturas e complementos.
 - Gerenciamento de pedidos.
 
+![HOME](./readme-images/home.png)
